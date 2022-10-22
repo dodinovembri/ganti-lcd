@@ -1,0 +1,26 @@
+[
+    {
+        "category": "LCD-Oppo",
+        "code": "A11K",
+        "name": "Ganti LCD OPPO A57",
+        "selling_price": 300000,
+        "image": "oppo-a57.jpg",
+        "status": 1
+    },
+    {
+        "category": "LCD-Oppo",
+        "code": "A11K",
+        "name": "Ganti LCD OPPO A77",
+        "selling_price": 300000,
+        "image": "oppo-a57.jpg",
+        "status": 1
+    },
+    {
+        "category": "LCD-Oppo",
+        "code": "A11K",
+        "name": "Ganti LCD OPPO F1S",
+        "selling_price": 200000,
+        "image": "oppo-f1s.jpg",
+        "status": 1
+    }
+]

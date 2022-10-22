@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Kabel Data",
+        "image": "demo3-ct-img1.jpg",
+        "total_product": 20
+    },
+    {
+        "id": "2",
+        "name": "Headset",
+        "image": "demo3-ct-img2.jpg",
+        "total_product": 20
+    },
+    {
+        "id": "3",
+        "name": "Baterai",
+        "image": "demo3-ct-img3.jpg",
+        "total_product": 32
+    },
+    {
+        "id": "4",
+        "name": "Charger",
+        "image": "demo1-banner4.jpg",
+        "total_product": 40
+    },
+    {
+        "id": "5",
+        "name": "Case",
+        "image": "demo1-banner5.jpg",
+        "total_product": 20
+    },
+    {
+        "id": "6",
+        "name": "Anti Gores",
+        "image": "collection-masonary1.jpg",
+        "total_product": 26
+    },
+    {
+        "id": "7",
+        "name": "Holder",
+        "image": "collection-masonary2.jpg",
+        "total_product": 34
+    },
+    {
+        "id": "8",
+        "name": "Kartu Memori",
+        "image": "collection-masonary3.jpg",
+        "total_product": 18
+    }
+]
