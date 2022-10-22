@@ -5,7 +5,7 @@
     <div class="closemobileMenu"><i class="icon an an-times-l pull-right"></i> Tutup Menu</div>
     <ul id="MobileNav" class="mobile-nav">
         <li class="lvl1 bottom-link"><a href="login.html">Home</a></li>
-        <li class="lvl1 bottom-link"><a href="category.php">Kategori Produk</a></li>
+        <li class="lvl1 bottom-link"><a href="#">Kategori Produk</a></li>
     </ul>
 </div>
 <!--End Mobile Menu-->

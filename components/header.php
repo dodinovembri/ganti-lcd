@@ -12,9 +12,6 @@
             <!--Mobile Toggle-->
             <button type="button" class="btn--link site-header__menu js-mobile-nav-toggle mobile-nav--open me-3 d-lg-none"><i class="icon an an-times-l"></i><i class="icon an an-bars-l"></i></button>
             <!--End Mobile Toggle-->
-            <!--Logo-->
-            <div class="logo mx-lg-auto"><a href="index.html"><img class="logo-img" src="assets/images/logo.svg" alt="Optimal Multipurpose eCommerce Bootstrap 5 Html Template" title="Optimal Multipurpose eCommerce Bootstrap 5 Html Template" /><span class="logo-txt d-none">L Store</span></a></div>
-            <!--End Logo-->
         </div>
         <!--End Logo / Menu Toggle-->
         <!--Right Action-->
