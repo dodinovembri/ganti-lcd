@@ -8,8 +8,8 @@
         <div class="home-slideshow">
             <div class="slide">
                 <div class="blur-up lazyload">
-                    <img class="blur-up lazyload desktop-hide" data-src="assets/images/slideshow/web.jpg" src="assets/images/slideshow/web.jpg" alt="MAKING BRAND VISIBLE" title="MAKING BRAND VISIBLE" width="2000" height="840" />
-                    <img class="blur-up lazyload mobile-hide" data-src="assets/images/slideshow/mob.jpg" src="assets/images/slideshow/mob.jpg" alt="MAKING BRAND VISIBLE" title="MAKING BRAND VISIBLE" width="705" height="780" />
+                    <img class="blur-up lazyload desktop-hide" data-src="assets/images/slideshow/image-web.jpg" src="assets/images/slideshow/image-web.jpg" alt="MAKING BRAND VISIBLE" title="MAKING BRAND VISIBLE" width="2000" height="840" />
+                    <img class="blur-up lazyload mobile-hide" data-src="assets/images/slideshow/image-mobile.jpg" src="assets/images/slideshow/image-mobile.jpg" alt="MAKING BRAND VISIBLE" title="MAKING BRAND VISIBLE" width="705" height="780" />
                     <div class="slideshow-content slideshow-overlay bottom-middle container d-flex justify-content-center align-items-center">
                         <div class="slideshow-content-in text-center">
                             <div class="wrap-caption animation style2 whiteText px-2">
