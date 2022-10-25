@@ -12,21 +12,21 @@
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-links">
                     <h4 class="h4">Policy</h4>
                     <ul>
-                        <li><a href="my-account.html">Privacy Policy</a></li>
-                        <li><a href="#">Terms &amp; condition</a></li>
+                        <li><a href="void::">Privacy Policy</a></li>
+                        <li><a href="void::">Terms &amp; Condition</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-links">
                     <h4 class="h4">Informations</h4>
                     <ul>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Location</a></li>
+                        <li><a href="void::">About Us</a></li>
+                        <li><a href="void::">Location</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-links">
                     <h4 class="h4">Customer Services</h4>
                     <ul>
-                        <li><a href="faqs-style1.html">FAQ's</a></li>
+                        <li><a href="void::">FAQ's</a></li>
                     </ul>
                 </div>
             </div>
