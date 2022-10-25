@@ -22,5 +22,13 @@
         "selling_price": 200000,
         "image": "oppo-f1s.jpg",
         "status": 1
+    },
+    {
+        "category": "Iphone",
+        "code": "5S",
+        "name": "Ganti LCD Iphone 5S",
+        "selling_price": 225000,
+        "image": "iphone-5s.jpg",
+        "status": 1
     }
 ]
