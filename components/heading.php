@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="description">
     <!-- Title Of Site -->
-    <title>L Store - HP Accessories</title>
+    <title>Nadi Service - Phone LCD Replacement</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.png" />
     <!-- Plugins CSS -->
