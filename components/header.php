@@ -3,7 +3,7 @@
         <!--Social Icons-->
         <div class="col-4 col-sm-4 col-md-4 col-lg-5 d-none d-lg-block">
             <ul class="social-icons list-inline">
-                <li class="list-inline-item"><a href="#"><i class="an an-whatsapp" aria-hidden="true"></i><span class="tooltip-label">Whatsapp</span></a></li>
+                <li class="list-inline-item"><a href="https://wa.me/+6282183599197?text=Hallo..%20Saya%20ingin%20ganti%20LCD%20HP%20apakah%20bisa?"><i class="an an-whatsapp" aria-hidden="true"></i><span class="tooltip-label">Whatsapp</span></a></li>
             </ul>
         </div>
         <!--End Social Icons-->
@@ -14,12 +14,5 @@
             <!--End Mobile Toggle-->
         </div>
         <!--End Logo / Menu Toggle-->
-        <!--Right Action-->
-        <div class="col-6 col-sm-6 col-md-6 col-lg-5 icons-col text-right d-flex justify-content-end">
-            <!--Search-->
-            <div class="site-search iconset"><i class="icon an an-search-l"></i><span class="tooltip-label">Search</span></div>
-            <!--End Search-->
-        </div>
-        <!--End Right Action-->
     </div>
 </header>

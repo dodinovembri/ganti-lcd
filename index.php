@@ -1,17 +1,31 @@
 <?php include('components/heading.php') ?>
 
-<!--Mobile Menu-->
-<div class="mobile-nav-wrapper" role="navigation">
-    <div class="closemobileMenu"><i class="icon an an-times-l pull-right"></i> Tutup Menu</div>
-    <ul id="MobileNav" class="mobile-nav">
-        <li class="lvl1 bottom-link"><a href="login.html">Home</a></li>
-        <li class="lvl1 bottom-link"><a href="#">Kategori Produk</a></li>
-    </ul>
-</div>
-<!--End Mobile Menu-->
-
 <!--Body Container-->
 <div id="page-content">
+    <!-- List Product -->
+    <!--Home Slider-->
+    <section class="slideshow slideshow-wrapper">
+        <div class="home-slideshow">
+            <div class="slide">
+                <div class="blur-up lazyload">
+                    <img class="blur-up lazyload desktop-hide" data-src="assets/images/slideshow/demo1-banner2.jpg" src="assets/images/slideshow/demo1-banner2.jpg" alt="MAKING BRAND VISIBLE" title="MAKING BRAND VISIBLE" width="2000" height="840" />
+                    <img class="blur-up lazyload mobile-hide" data-src="assets/images/slideshow/demo1-banner2-m.jpg" src="assets/images/slideshow/demo1-banner2-m.jpg" alt="MAKING BRAND VISIBLE" title="MAKING BRAND VISIBLE" width="705" height="780" />
+                    <div class="slideshow-content slideshow-overlay bottom-middle container d-flex justify-content-center align-items-center">
+                        <div class="slideshow-content-in text-center">
+                            <div class="wrap-caption animation style2 whiteText px-2">
+                                <h2 class="mega-title ss-mega-title fs-1">Ganti LCD HP</h2>
+                                <span class="mega-subtitle ss-sub-title fs-6">Ganti LCD dengan harga yang terjangkau.<br> Pesan sekarang juga.</span>
+                                <div class="ss-btnWrap">
+                                    <a class="btn btn-lg rounded btn-primary" href="https://wa.me/+6282183599197?text=Hallo..%20Saya%20ingin%20ganti%20LCD%20HP%20apakah%20bisa?">WhatsApp Sekarang!</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Home Slider--> 
     <div class="container">
         <div class="row">
             <!--Sidebar-->
@@ -25,10 +39,12 @@
                         </div>
                         <div class="widget-content filterDD">
                             <ul class="clearfix sidebar_categories mb-0">
-                                <li class="lvl-1"><a href="#" class="site-nav">Shoes</a></li>
-                                <li class="lvl-1"><a href="#" class="site-nav">Accessories</a></li>
-                                <li class="lvl-1"><a href="#" class="site-nav">Collections</a></li>
-                                <li class="lvl-1"><a href="#" class="site-nav">Sale</a></li>
+                                <li class="lvl-1"><a href="#" class="site-nav">Iphone</a></li>
+                                <li class="lvl-1"><a href="#" class="site-nav">Oppo - Android</a></li>
+                                <li class="lvl-1"><a href="#" class="site-nav">Vivo - Android</a></li>
+                                <li class="lvl-1"><a href="#" class="site-nav">Samsung - Android</a></li>
+                                <li class="lvl-1"><a href="#" class="site-nav">Xiaomi - Android</a></li>
+                                <li class="lvl-1"><a href="#" class="site-nav">Realme - Android</a></li>
                             </ul>
                         </div>
                     </div>
@@ -58,14 +74,13 @@
                                 <div class="filters-toolbar__item">
                                     <label for="SortBy" class="hidden">Sort by:</label>
                                     <select name="SortBy" id="SortBy" class="filters-toolbar__input filters-toolbar__input--sort">
-                                        <option value="featured" selected="selected">Featured</option>
-                                        <option value="best-selling">Best selling</option>
-                                        <option value="title-ascending">Alphabetically, A-Z</option>
-                                        <option value="title-descending">Alphabetically, Z-A</option>
-                                        <option value="price-ascending">Price, low to high</option>
-                                        <option value="price-descending">Price, high to low</option>
-                                        <option value="created-ascending">Date, old to new</option>
-                                        <option value="created-descending">Date, new to old</option>
+                                        <option value="featured" selected="selected">Tampil Semua</option>
+                                        <option value="best-selling">Iphone</option>
+                                        <option value="title-ascending">Oppo - Android</option>
+                                        <option value="title-descending">Vivo - Android</option>
+                                        <option value="price-ascending">Samsung - Android</option>
+                                        <option value="price-descending">Xiaomi - Android</option>
+                                        <option value="created-ascending">Realme - Android</option>
                                     </select>
                                 </div>
                             </li>

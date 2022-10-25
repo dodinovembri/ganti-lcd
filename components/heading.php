@@ -22,4 +22,4 @@
     <!--Page Wrapper-->
     <div class="page-wrapper">
         <!--Header-->
-        <?php include('components/header.php') ?>
+        <?php //include('components/header.php') ?>
