@@ -1,6 +1,6 @@
 [
     {
-        "category": "LCD-Oppo",
+        "category": "oppo",
         "code": "A11K",
         "name": "Ganti LCD OPPO A57",
         "selling_price": 300000,
@@ -8,7 +8,7 @@
         "status": 1
     },
     {
-        "category": "LCD-Oppo",
+        "category": "oppo",
         "code": "A11K",
         "name": "Ganti LCD OPPO A77",
         "selling_price": 300000,
@@ -16,7 +16,7 @@
         "status": 1
     },
     {
-        "category": "LCD-Oppo",
+        "category": "oppo",
         "code": "A11K",
         "name": "Ganti LCD OPPO F1S",
         "selling_price": 200000,
@@ -24,7 +24,7 @@
         "status": 1
     },
     {
-        "category": "Iphone",
+        "category": "iphone",
         "code": "5S",
         "name": "Ganti LCD Iphone 5S",
         "selling_price": 225000,

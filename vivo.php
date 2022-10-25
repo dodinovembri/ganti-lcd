@@ -28,10 +28,10 @@
                                 <div class="filters-toolbar__item">
                                     <label for="SortBy" class="hidden">Sort by:</label>
                                     <select name="SortBy" id="SortBy" class="filters-toolbar__input filters-toolbar__input--sort" onchange="window.location.href=this.value;">
-                                        <option value="index.php" selected="selected">Tampil Semua</option>
+                                        <option value="index.php">Tampil Semua</option>
                                         <option value="iphone.php">Iphone</option>
                                         <option value="oppo.php">Oppo - Android</option>
-                                        <option value="vivo.php">Vivo - Android</option>
+                                        <option value="vivo.php" selected="selected">Vivo - Android</option>
                                         <option value="samsung.php">Samsung - Android</option>
                                         <option value="xiaomi.php">Xiaomi - Android</option>
                                         <option value="realme.php">Realme - Android</option>
@@ -47,33 +47,35 @@
                     <div class="row">
                         <?php
                         foreach ($products as $key => $value) { ?>
-                            <div class="col-6 col-sm-6 col-md-4 col-lg-4 item">
-                                <!--Start Product Image-->
-                                <div class="product-image">
+                            <?php if ($value['category'] == 'vivo') { ?>
+                                <div class="col-6 col-sm-6 col-md-4 col-lg-4 item">
                                     <!--Start Product Image-->
-                                    <a href="void::" class="product-img">
-                                        <!-- image -->
-                                        <img src="assets/images/products/<?php echo $value['image'] ?>" alt="image" title="">
-                                        <!-- End image -->
-                                    </a>
+                                    <div class="product-image">
+                                        <!--Start Product Image-->
+                                        <a href="void::" class="product-img">
+                                            <!-- image -->
+                                            <img src="assets/images/products/<?php echo $value['image'] ?>" alt="image" title="">
+                                            <!-- End image -->
+                                        </a>
+                                        <!--End Product Image-->
+                                    </div>
                                     <!--End Product Image-->
-                                </div>
-                                <!--End Product Image-->
-                                <!--Start Product Details-->
-                                <div class="product-details text-center">
-                                    <!--Product Name-->
-                                    <div class="product-name text-uppercase">
-                                        <a href="void::"><?php echo $value['name'] ?></a>
+                                    <!--Start Product Details-->
+                                    <div class="product-details text-center">
+                                        <!--Product Name-->
+                                        <div class="product-name text-uppercase">
+                                            <a href="void::"><?php echo $value['name'] ?></a>
+                                        </div>
+                                        <!--End Product Name-->
+                                        <!--Product Price-->
+                                        <div class="product-price">
+                                            <span class="price">Rp. <?php echo number_format($value['selling_price'], 0, ',', '.'); ?></span>
+                                        </div>
+                                        <!--End Product Price-->
                                     </div>
-                                    <!--End Product Name-->
-                                    <!--Product Price-->
-                                    <div class="product-price">
-                                        <span class="price">Rp. <?php echo number_format($value['selling_price'], 0, ',', '.'); ?></span>
-                                    </div>
-                                    <!--End Product Price-->
-                                </div>
-                                <!--End Product Details-->
-                            </div>
+                                    <!--End Product Details-->
+                                </div>                                
+                            <?php } ?>
                         <?php } ?>
                     </div>
                 </div>
