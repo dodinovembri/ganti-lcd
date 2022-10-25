@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-12 text-center about-col mb-4">
-                    <p>Jalan Melati No 21C, Kebon Jeruk, Jakarta Barat <br> Buka Jam: 05.00 Sore - 11.00 Malam</p>
+                    <p>Jalan Melati No 21C, Kebon Jeruk, Jakarta Barat <br> Buka Jam: 05.00 Sore - 10.00 Malam</p>
                     <p class="mb-0 mb-md-3">Phone: <a href="tel:+6282183599197">0821-8359-9197</a></p>
                 </div>
             </div>
