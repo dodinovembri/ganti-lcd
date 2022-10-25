@@ -128,17 +128,6 @@
 
                 <!--Pagination Classic-->
                 <hr class="clear">
-                <div class="pagination">
-                    <ul>
-                        <li class="prev"><a href="#"><i class="icon align-middle an an-caret-left" aria-hidden="true"></i></a></li>
-                        <li class="active"><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">...</a></li>
-                        <li><a href="#">5</a></li>
-                        <li class="next"><a href="#"><i class="icon align-middle an an-caret-right" aria-hidden="true"></i></a></li>
-                    </ul>
-                </div>
-                <!--End Pagination Classic-->
             </div>
             <!--End Main Content-->
         </div>
