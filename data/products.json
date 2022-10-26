@@ -62,5 +62,29 @@
         "selling_price": 350000,
         "image": "samsung-a7-2018.jpg",
         "status": 1
+    },
+    {
+        "category": "xiaomi",
+        "code": "4A",
+        "name": "Ganti LCD XIAOMI REDMI 4A",
+        "selling_price": 200000,
+        "image": "xiaomi-redmi-4a.jpg",
+        "status": 1
+    },
+    {
+        "category": "vivo",
+        "code": "Y81",
+        "name": "Ganti LCD Vivo Y81",
+        "selling_price": 250000,
+        "image": "vivo-y81.jpg",
+        "status": 1
+    },
+    {
+        "category": "realme",
+        "code": "C2",
+        "name": "Ganti LCD Realme C2",
+        "selling_price": 250000,
+        "image": "realme-c2.jpg",
+        "status": 1
     }
 ]
