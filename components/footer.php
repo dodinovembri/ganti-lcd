@@ -8,6 +8,7 @@
                     <p class="mb-0 mb-md-3">Phone: <a href="tel:+6282183599197">0821-8359-9197</a></p>
                 </div>
             </div>
+            <hr class="clear">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-links">
                     <h4 class="h4">Policy</h4>
@@ -20,7 +21,7 @@
                     <h4 class="h4">Informations</h4>
                     <ul>
                         <li><a href="void::">About Us</a></li>
-                        <li><a href="void::">Location</a></li>
+                        <li><a href="location.php">Lokasi</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 footer-links">
