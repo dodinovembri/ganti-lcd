@@ -88,6 +88,46 @@
         "status": 1
     },
     {
+        "category": "vivo",
+        "code": "Y17",
+        "name": "Ganti LCD Vivo Y17",
+        "selling_price": 250000,
+        "image": "vivo-y17.jpg",
+        "status": 1
+    },
+    {
+        "category": "vivo",
+        "code": "Y15",
+        "name": "Ganti LCD Vivo Y15",
+        "selling_price": 250000,
+        "image": "vivo-y15.jpg",
+        "status": 1
+    },
+    {
+        "category": "vivo",
+        "code": "Y12",
+        "name": "Ganti LCD Vivo Y12",
+        "selling_price": 250000,
+        "image": "vivo-y12.jpg",
+        "status": 1
+    },
+    {
+        "category": "vivo",
+        "code": "Y12i",
+        "name": "Ganti LCD Vivo Y12i",
+        "selling_price": 250000,
+        "image": "vivo-y12i.jpg",
+        "status": 1
+    },
+    {
+        "category": "vivo",
+        "code": "Y11",
+        "name": "Ganti LCD Vivo Y11",
+        "selling_price": 250000,
+        "image": "vivo-y11.jpg",
+        "status": 1
+    },
+    {
         "category": "realme",
         "code": "C2",
         "name": "Ganti LCD Realme C2",
