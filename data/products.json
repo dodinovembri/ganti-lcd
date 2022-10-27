@@ -1,5 +1,37 @@
 [
     {
+        "category": "samsung",
+        "code": "A7 2018",
+        "name": "Ganti LCD Samsung A7 2018",
+        "selling_price": 350000,
+        "image": "samsung-a7-2018.jpg",
+        "status": 1
+    },
+    {
+        "category": "oppo",
+        "code": "A11K",
+        "name": "Ganti LCD OPPO A57",
+        "selling_price": 300000,
+        "image": "oppo-a57.jpg",
+        "status": 1
+    },
+    {
+        "category": "oppo",
+        "code": "A11K",
+        "name": "Ganti LCD OPPO A77",
+        "selling_price": 300000,
+        "image": "oppo-a57.jpg",
+        "status": 1
+    },
+    {
+        "category": "oppo",
+        "code": "A11K",
+        "name": "Ganti LCD OPPO F1S",
+        "selling_price": 200000,
+        "image": "oppo-f1s.jpg",
+        "status": 1
+    },
+    {
         "category": "iphone",
         "code": "5S",
         "name": "Ganti LCD Iphone 5S",
@@ -37,38 +69,6 @@
         "name": "Ganti LCD Iphone 6G",
         "selling_price": 225000,
         "image": "iphone-6g.jpg",
-        "status": 1
-    },
-    {
-        "category": "samsung",
-        "code": "A7 2018",
-        "name": "Ganti LCD Samsung A7 2018",
-        "selling_price": 350000,
-        "image": "samsung-a7-2018.jpg",
-        "status": 1
-    },
-    {
-        "category": "oppo",
-        "code": "A11K",
-        "name": "Ganti LCD OPPO A57",
-        "selling_price": 300000,
-        "image": "oppo-a57.jpg",
-        "status": 1
-    },
-    {
-        "category": "oppo",
-        "code": "A11K",
-        "name": "Ganti LCD OPPO A77",
-        "selling_price": 300000,
-        "image": "oppo-a57.jpg",
-        "status": 1
-    },
-    {
-        "category": "oppo",
-        "code": "A11K",
-        "name": "Ganti LCD OPPO F1S",
-        "selling_price": 200000,
-        "image": "oppo-f1s.jpg",
         "status": 1
     },
     {
