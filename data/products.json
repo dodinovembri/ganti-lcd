@@ -56,6 +56,14 @@
         "status": 1
     },
     {
+        "category": "iphone",
+        "code": "6G",
+        "name": "Ganti LCD Iphone 6G",
+        "selling_price": 225000,
+        "image": "iphone-6g.jpg",
+        "status": 1
+    },
+    {
         "category": "samsung",
         "code": "A7 2018",
         "name": "Ganti LCD Samsung A7 2018",
