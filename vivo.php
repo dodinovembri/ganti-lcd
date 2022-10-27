@@ -54,7 +54,7 @@
                                         <!--Start Product Image-->
                                         <a href="void::" class="product-img">
                                             <!-- image -->
-                                            <img src="assets/images/products/<?php echo $value['category'] ?>/<?php echo $value['image'] ?>" alt="image" title="">
+                                            <img src="assets/images/lcd-products/<?php echo $value['category'] ?>/<?php echo $value['image'] ?>" alt="image" title="">
                                             <!-- End image -->
                                         </a>
                                         <!--End Product Image-->
